@@ -1,0 +1,19 @@
+Welcome to the LiveEmulation Cheat Engine!
+
+We noticed this is your first time using our cheats.
+We just want to say thank you for giving us a try
+while our cheats are in Alpha.
+Please note, this is an Alpha build, so bugs and
+issues are to be expected.
+We ask that you please report these in the Discord 
+server. Your feedback is most welcome too.
+
+Special thanks to the below for any help 
+given in the past:
+
+MatrixMods
+SexyExploits
+Exile
+Shawn (Helping test)
+Jonathan (Helping test)
+Zone (Being Zone)

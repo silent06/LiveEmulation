@@ -1,0 +1,9 @@
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\bin\Debug\XblApi.exe.config
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\bin\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\bin\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\bin\Debug\MySql.Data.dll
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\Debug\XblApi.csprojAssemblyReference.cache
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\Debug\XblApi.csproj.CopyComplete
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\Debug\XblApi.pdb

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Xui.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Games.cpp">
+      <Filter>Source Files\Games</Filter>
+    </ClCompile>
+    <ClCompile Include="INIPhaser.cpp">
+      <Filter>Source Files\Utillities</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities.cpp">
+      <Filter>Source Files\Utillities</Filter>
+    </ClCompile>
+    <ClCompile Include="launch.cpp">
+      <Filter>Source Files\Utillities</Filter>
+    </ClCompile>
+    <ClCompile Include="FormatUtils.cpp">
+      <Filter>Source Files\Utillities</Filter>
+    </ClCompile>
+    <ClCompile Include="Requests.cpp">
+      <Filter>Source Files\Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="invoker.cpp">
+      <Filter>Source Files\Security</Filter>
+    </ClCompile>
+    <ClCompile Include="CryptoTools.cpp">
+      <Filter>Source Files\Security</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadPool.cpp">
+      <Filter>Source Files\Security</Filter>
+    </ClCompile>
+    <ClCompile Include="IntegrityManager.cpp">
+      <Filter>Source Files\Security</Filter>
+    </ClCompile>
+    <ClCompile Include="SysSecurity.cpp">
+      <Filter>Source Files\Security</Filter>
+    </ClCompile>
+    <ClCompile Include="XuiData.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Networking.cpp">
+      <Filter>Source Files\Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="KVGuard.cpp">
+      <Filter>Source Files\Security</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks_sys.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks_chal_xke.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks_chal_xsc.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks_title.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="HV.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="KV.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="LiveEmulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_UI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_LiveEmulation.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_Cheats.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_Changes.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_Bypasses.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Dashboard_UI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Dashboard_Defs.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD_UI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="INIPhaser.h">
+      <Filter>Header Files\Utillities\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="Xui.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Games.h">
+      <Filter>Header Files\Games</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleIni.h">
+      <Filter>Header Files\Utillities\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities.h">
+      <Filter>Header Files\Utillities</Filter>
+    </ClInclude>
+    <ClInclude Include="launch.h">
+      <Filter>Header Files\Utillities</Filter>
+    </ClInclude>
+    <ClInclude Include="FormatUtils.h">
+      <Filter>Header Files\Utillities</Filter>
+    </ClInclude>
+    <ClInclude Include="Requests.h">
+      <Filter>Header Files\Networking</Filter>
+    </ClInclude>
+    <ClInclude Include="CryptoTools.h">
+      <Filter>Header Files\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="invoker.h">
+      <Filter>Header Files\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="natives.h">
+      <Filter>Header Files\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="SysSecurity.h">
+      <Filter>Header Files\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadPool.h">
+      <Filter>Header Files\Utillities</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegrityManager.h">
+      <Filter>Header Files\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Networking.h">
+      <Filter>Header Files\Networking</Filter>
+    </ClInclude>
+    <ClInclude Include="KVGuard.h">
+      <Filter>Header Files\Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks_sys.h">
+      <Filter>Header Files\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="HV.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="KV.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="LE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD_UI.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Dashboard_Defs.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Dashboard_UI.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{34147477-aaf7-4d7e-a8de-631080c221a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7c2dd520-40e0-4934-8cdc-2160312b5681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Games">
+      <UniqueIdentifier>{19d3d28b-3481-40a5-b034-e2558dc22316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hooks">
+      <UniqueIdentifier>{c3002d8f-78d5-4295-ab89-4707c0bd2fdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games">
+      <UniqueIdentifier>{29e95ccc-bacd-461d-9a14-6b44865991f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Networking">
+      <UniqueIdentifier>{a3ddd067-8ea2-45e6-9709-230ff2d0930e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{472b7e86-2f5f-42ec-ab94-0809d185715b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utillities">
+      <UniqueIdentifier>{51978eeb-622b-4be9-9a86-b2e4267ad303}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utillities\INI">
+      <UniqueIdentifier>{ee328795-8cab-4984-8629-94eb0310378c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI">
+      <UniqueIdentifier>{0b730524-ce4c-4a3c-a027-2a674682941b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Security">
+      <UniqueIdentifier>{b0746397-0d06-45fc-af05-9e5377dbedb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Security">
+      <UniqueIdentifier>{fcecfcbf-fa6a-49f3-82c0-042e4c7535d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utillities">
+      <UniqueIdentifier>{00caffb9-61da-4809-97a1-7b0c6ab3e340}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Hooks">
+      <UniqueIdentifier>{e16bb9a5-9bf3-4d30-adc9-db0c746cc7af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Networking">
+      <UniqueIdentifier>{07a6b230-2d2a-4187-9e64-ad36f6ab738e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System">
+      <UniqueIdentifier>{5500042a-4ee7-4e61-9ba8-38da7fdfa007}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System">
+      <UniqueIdentifier>{e4419786-501c-4f52-a115-c969c5881cfe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LiveE.xml" />
+  </ItemGroup>
+</Project>

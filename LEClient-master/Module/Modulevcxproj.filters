@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Utilities.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SysHooks.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetReq.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetConnect.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Modules.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyVault.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="HvPeekPoke.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameHooks.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dominate.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Config.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameHooks.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="KVBAN.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyVault.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="HvPeekPoke.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetConnect.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="PatchXam.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetReq.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="SysHooks.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Xosc.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="PatchMstore.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="XamChallengeResp.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{5d987cbb-34cf-4bad-ac03-5c8603b156c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{ba3a69e6-9e73-4c1f-a191-b429cc3a7312}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

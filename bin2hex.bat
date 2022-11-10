@@ -1,0 +1,1 @@
+bin2hex.exe --i Notify.xex --o notify.txt

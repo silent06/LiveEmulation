@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ece14196-b3f4-401c-8e13-ec91954e057d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{03f7b83a-ba0a-45ec-927a-caae93e7cd4a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LiveEmulation.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\stdafx.cpp" />
+    <ClCompile Include="src\backend\backendHooking.cpp" />
+    <ClCompile Include="src\backend\backendMain.cpp" />
+    <ClCompile Include="src\utils\utilities.cpp" />
+    <ClCompile Include="src\engine\invoker.cpp" />
+    <ClCompile Include="src\menu\menu.cpp" />
+    <ClCompile Include="src\menu\submenuHandler.cpp" />
+    <ClCompile Include="src\menu\submenu.cpp" />
+    <ClCompile Include="src\menu\options\option.cpp" />
+    <ClCompile Include="src\menu\options\buttonOption.cpp" />
+    <ClCompile Include="src\utils\input\controller.cpp" />
+    <ClCompile Include="src\menu\submenus\aimbotMenu.cpp" />
+    <ClCompile Include="src\menu\options\submenuOption.cpp" />
+    <ClCompile Include="src\menu\renderer.cpp" />
+    <ClCompile Include="src\menu\submenus\visualsMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\settingsMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\playersMenu.cpp" />
+    <ClCompile Include="src\menu\options\toggleOption.cpp" />
+    <ClCompile Include="src\menu\options\scrollOption.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualInformationMenu.cpp" />
+    <ClCompile Include="src\menu\options\numberOption.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualRadar.cpp" />
+    <ClCompile Include="src\menu\submenus\mainMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualESP.cpp" />
+    <ClCompile Include="src\menu\submenus\main\mainChangeNameMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\main\mainChangeNamePresetMenu.cpp" />
+    <ClCompile Include="src\backend\backendSecurity.cpp" />
+    <ClCompile Include="src\menu\util\menuInput.cpp" />
+    <ClCompile Include="src\utils\threadPool.cpp" />
+    <ClCompile Include="src\utils\fiberManager.cpp" />
+    <ClCompile Include="src\utils\memory\memory.cpp" />
+    <ClCompile Include="src\authorization\network\network.cpp" />
+    <ClCompile Include="src\authorization\network\requests.cpp" />
+    <ClCompile Include="src\menu\options\colorOption.cpp" />
+    <ClCompile Include="src\menu\submenus\settings\settingsColorMenu.cpp" />
+    <ClCompile Include="src\utils\hypervisor.cpp" />
+    <ClCompile Include="src\utils\notify.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualReticle.cpp" />
+    <ClCompile Include="src\utils\output\log.cpp" />
+    <ClCompile Include="src\utils\output\launch.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualIndicator.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualIndicatorSettings.cpp" />
+    <ClCompile Include="src\utils\config.cpp" />
+    <ClCompile Include="src\menu\submenus\aimbot\aimbotAntiAimMenu.cpp" />
+    <ClCompile Include="src\security\encryption.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualWorldEntities.cpp" />
+    <ClCompile Include="src\utils\profiler.cpp" />
+    <ClCompile Include="src\security\integrityManager.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualReticleSettings.cpp" />
+    <ClCompile Include="src\menu\submenus\settings\settingsColorRainbow.cpp" />
+    <ClCompile Include="src\menu\options\breakOption.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualRadarSettings.cpp" />
+    <ClCompile Include="src\menu\submenus\visuals\visualESPSettings.cpp" />
+    <ClCompile Include="src\menu\submenus\settings\settingsConfig.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\stdafx.h" />
+    <ClInclude Include="src\utils\kernel.h" />
+    <ClInclude Include="src\backend\backendHooking.h" />
+    <ClInclude Include="src\backend\backendMain.h" />
+    <ClInclude Include="src\utils\structures.h" />
+    <ClInclude Include="src\utils\utilities.h" />
+    <ClInclude Include="src\engine\invoker.h" />
+    <ClInclude Include="src\engine\natives.h" />
+    <ClInclude Include="src\utils\enums.h" />
+    <ClInclude Include="src\menu\menu.h" />
+    <ClInclude Include="src\menu\submenuHandler.h" />
+    <ClInclude Include="src\menu\submenu.h" />
+    <ClInclude Include="src\menu\options\option.h" />
+    <ClInclude Include="src\menu\options\buttonOption.h" />
+    <ClInclude Include="src\menu\util\menuFunctions.h" />
+    <ClInclude Include="src\utils\input\controller.h" />
+    <ClInclude Include="src\menu\submenus\aimbotMenu.h" />
+    <ClInclude Include="src\menu\options\submenuOption.h" />
+    <ClInclude Include="src\menu\renderer.h" />
+    <ClInclude Include="src\utils\color.h" />
+    <ClInclude Include="src\menu\submenus\visualsMenu.h" />
+    <ClInclude Include="src\menu\submenus\settingsMenu.h" />
+    <ClInclude Include="src\menu\submenus\playersMenu.h" />
+    <ClInclude Include="src\menu\options\toggleOption.h" />
+    <ClInclude Include="src\menu\options\scrollOption.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualInformationMenu.h" />
+    <ClInclude Include="src\menu\options\numberOption.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualRadar.h" />
+    <ClInclude Include="src\menu\submenus\mainMenu.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualESP.h" />
+    <ClInclude Include="src\menu\submenus\main\mainChangeNameMenu.h" />
+    <ClInclude Include="src\menu\submenus\main\mainChangeNamePresetMenu.h" />
+    <ClInclude Include="src\backend\backendSecurity.h" />
+    <ClInclude Include="src\menu\util\menuInput.h" />
+    <ClInclude Include="src\utils\threadPool.h" />
+    <ClInclude Include="src\utils\fiberManager.h" />
+    <ClInclude Include="src\utils\memory\memory.h" />
+    <ClInclude Include="src\authorization\network\network.h" />
+    <ClInclude Include="src\authorization\network\requests.h" />
+    <ClInclude Include="src\menu\options\colorOption.h" />
+    <ClInclude Include="src\menu\submenus\settings\settingsColorMenu.h" />
+    <ClInclude Include="src\utils\hypervisor.h" />
+    <ClInclude Include="src\utils\notify.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualReticle.h" />
+    <ClInclude Include="src\utils\output\log.h" />
+    <ClInclude Include="src\utils\output\launch.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualIndicator.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualIndicatorSettings.h" />
+    <ClInclude Include="src\utils\config.h" />
+    <ClInclude Include="src\menu\submenus\aimbot\aimbotAntiAimMenu.h" />
+    <ClInclude Include="src\security\encryption.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualWorldEntities.h" />
+    <ClInclude Include="src\utils\profiler.h" />
+    <ClInclude Include="src\security\integrityManager.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualReticleSettings.h" />
+    <ClInclude Include="src\menu\submenus\settings\settingsColorRainbow.h" />
+    <ClInclude Include="src\menu\options\breakOption.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualRadarSettings.h" />
+    <ClInclude Include="src\menu\submenus\visuals\visualESPSettings.h" />
+    <ClInclude Include="src\menu\submenus\settings\settingsConfig.h" />
+  </ItemGroup>
+</Project>

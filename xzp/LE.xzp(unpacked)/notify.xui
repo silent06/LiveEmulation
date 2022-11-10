@@ -1,0 +1,24 @@
+<XuiCanvas version="000c">
+<Properties>
+<Id>XuiCanvas</Id>
+<Width>640</Width>
+<Height>480</Height>
+</Properties><XamScene>
+<Properties>
+<Id>XuiScene1</Id>
+<Width>460</Width>
+<Height>87</Height>
+<ClassOverride>NotifyPopupScene</ClassOverride>
+<TransFrom>TransFrom</TransFrom>
+<TransTo>TransTo</TransTo>
+</Properties>
+<XamControl>
+<Properties>
+<Id>PopupControl</Id>
+<Width>460</Width>
+<Height>87</Height>
+<Visual>ScrnNotification</Visual>
+</Properties>
+</XamControl>
+</XamScene>
+</XuiCanvas>

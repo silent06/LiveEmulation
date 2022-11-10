@@ -1,0 +1,10 @@
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\bin\Debug\XeProtect.exe.config
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\bin\Debug\XeProtect.exe
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\bin\Debug\XeProtect.pdb
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\obj\Debug\XeProtect.Form1.resources
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\obj\Debug\XeProtect.Properties.Resources.resources
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\obj\Debug\XeProtect.csproj.GenerateResource.cache
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\obj\Debug\XeProtect.csproj.CoreCompileInputs.cache
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\obj\Debug\XeProtect.exe
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\obj\Debug\XeProtect.pdb
+C:\Users\creec\Desktop\silent\Live Emulation Full Source Code\XeProtect\XeProtect\obj\Debug\XeProtect.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\bin\Debug\LEApi.exe.config
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\bin\Debug\LEApi.exe
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\bin\Debug\LEApi.pdb
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\bin\Debug\MySql.Data.dll
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\obj\Debug\LEApi.csprojAssemblyReference.cache
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\obj\Debug\LEApi.csproj.CoreCompileInputs.cache
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\obj\Debug\LEApi.csproj.CopyComplete
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\obj\Debug\LEApi.exe
+C:\Users\creec\Desktop\silent\Stealth\Stealth\Live Emulation Full Source Code\LEApi\obj\Debug\LEApi.pdb

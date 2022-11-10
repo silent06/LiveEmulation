@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LiveEmulation", "LiveEmulation\LiveEmulation.vcxproj", "{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CodeAnalysis|Win32 = CodeAnalysis|Win32
+		CodeAnalysis|x64 = CodeAnalysis|x64
+		CodeAnalysis|Xbox 360 = CodeAnalysis|Xbox 360
+		Debug Retail|Win32 = Debug Retail|Win32
+		Debug Retail|x64 = Debug Retail|x64
+		Debug Retail|Xbox 360 = Debug Retail|Xbox 360
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|Xbox 360 = Debug|Xbox 360
+		Profile_FastCap|Win32 = Profile_FastCap|Win32
+		Profile_FastCap|x64 = Profile_FastCap|x64
+		Profile_FastCap|Xbox 360 = Profile_FastCap|Xbox 360
+		Profile|Win32 = Profile|Win32
+		Profile|x64 = Profile|x64
+		Profile|Xbox 360 = Profile|Xbox 360
+		Release Devkit|Win32 = Release Devkit|Win32
+		Release Devkit|x64 = Release Devkit|x64
+		Release Devkit|Xbox 360 = Release Devkit|Xbox 360
+		Release Retail|Win32 = Release Retail|Win32
+		Release Retail|x64 = Release Retail|x64
+		Release Retail|Xbox 360 = Release Retail|Xbox 360
+		Release_LTCG|Win32 = Release_LTCG|Win32
+		Release_LTCG|x64 = Release_LTCG|x64
+		Release_LTCG|Xbox 360 = Release_LTCG|Xbox 360
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.CodeAnalysis|Win32.ActiveCfg = CodeAnalysis|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.CodeAnalysis|Win32.Build.0 = CodeAnalysis|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.CodeAnalysis|x64.ActiveCfg = CodeAnalysis|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.CodeAnalysis|Xbox 360.ActiveCfg = CodeAnalysis|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.CodeAnalysis|Xbox 360.Build.0 = CodeAnalysis|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug Retail|Win32.ActiveCfg = Debug|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug Retail|Win32.Build.0 = Debug|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug Retail|x64.ActiveCfg = Release|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug Retail|x64.Build.0 = Release|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug Retail|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug Retail|Xbox 360.Build.0 = Debug|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug|Win32.Build.0 = Debug|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug|x64.ActiveCfg = Debug|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile_FastCap|Win32.ActiveCfg = Profile_FastCap|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile_FastCap|Win32.Build.0 = Profile_FastCap|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile_FastCap|x64.ActiveCfg = Profile_FastCap|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile_FastCap|Xbox 360.ActiveCfg = Profile_FastCap|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile_FastCap|Xbox 360.Build.0 = Profile_FastCap|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile|Win32.ActiveCfg = Profile|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile|Win32.Build.0 = Profile|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile|x64.ActiveCfg = Profile|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile|Xbox 360.ActiveCfg = Profile|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Profile|Xbox 360.Build.0 = Profile|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Devkit|Win32.ActiveCfg = Release|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Devkit|Win32.Build.0 = Release|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Devkit|x64.ActiveCfg = Release|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Devkit|x64.Build.0 = Release|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Devkit|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Devkit|Xbox 360.Build.0 = Release_LTCG|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Retail|Win32.ActiveCfg = Release|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Retail|Win32.Build.0 = Release|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Retail|x64.ActiveCfg = Release|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Retail|x64.Build.0 = Release|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Retail|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release Retail|Xbox 360.Build.0 = Release_LTCG|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release_LTCG|Win32.ActiveCfg = Release_LTCG|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release_LTCG|Win32.Build.0 = Release_LTCG|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release_LTCG|x64.ActiveCfg = Release_LTCG|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release_LTCG|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release_LTCG|Xbox 360.Build.0 = Release_LTCG|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release|Win32.ActiveCfg = Release|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release|Win32.Build.0 = Release|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release|x64.ActiveCfg = Release|Win32
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{7DE1D726-1396-4B1E-9EC1-239FBF872C3E}.Release|Xbox 360.Build.0 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E72DE710-CA92-42DB-A348-CC60E7F631C7}
+	EndGlobalSection
+EndGlobal

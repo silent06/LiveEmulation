@@ -1,0 +1,1579 @@
+<XuiCanvas version="000c">
+<Properties>
+<Id>XuiCanvas</Id>
+<Width>1280</Width>
+<Height>720</Height>
+</Properties><XuiVisual>
+<Properties>
+<Id>ScrnNotification</Id>
+<Width>370</Width>
+<Height>61</Height>
+<ColorWriteFlags>7</ColorWriteFlags>
+</Properties>
+<XamGroup>
+<Properties>
+<Id>bgBase</Id>
+<Width>356</Width>
+<Height>39</Height>
+<Position>0.000000,10.000000,0.000000</Position>
+<Anchor>5</Anchor>
+<Pivot>32.559700,19.259400,0.000000</Pivot>
+<Show>False</Show>
+</Properties>
+<XuiFigure>
+<Properties>
+<Id>bgBase</Id>
+<Width>305</Width>
+<Height>39.47955</Height>
+<Position>32.000000,0.009387,0.000000</Position>
+<Opacity>1.1</Opacity>
+<Anchor>5</Anchor>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0fb391</FillColor>
+<Gradient><Properties>
+<NumStops>8</NumStops>
+<StopColor index="0">0x00ebebeb</StopColor>
+<StopColor index="1">0x32ebebeb</StopColor>
+<StopColor index="2">0xff323232</StopColor>
+<StopColor index="3">0xff3c3c3c</StopColor>
+<StopColor index="4">0xff3c3c3c</StopColor>
+<StopColor index="5">0xff323232</StopColor>
+<StopColor index="6">0x32ebebeb</StopColor>
+<StopColor index="7">0x00ebebeb</StopColor>
+<StopPos index="0">0.019</StopPos>
+<StopPos index="1">0.085</StopPos>
+<StopPos index="2">0.125</StopPos>
+<StopPos index="3">0.156</StopPos>
+<StopPos index="4">0.832</StopPos>
+<StopPos index="5">0.88</StopPos>
+<StopPos index="6">0.928</StopPos>
+<StopPos index="7">0.976</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,103.000000,0.000000,0,103.000000,0.000000,103.000000,0.000000,103.000000,41.663860,0,103.000000,41.663860,103.000000,41.663860,0.000000,41.663860,0,0.000000,41.663860,0.000000,41.663860,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>bgEdge2</Id>
+<Width>7.705505</Width>
+<Height>39.47955</Height>
+<Position>350.794500,0.000000,0.000000</Position>
+<Opacity>1.1</Opacity>
+<Anchor>4</Anchor>
+<Pivot>-0.000732,0.000000,0.000000</Pivot>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0fb391</FillColor>
+<Gradient><Properties>
+<Radial>True</Radial>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff718499</StopColor>
+<StopColor index="1">0xff506482</StopColor>
+<StopColor index="2">0x73ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.615686</StopPos>
+<StopPos index="1">0.686275</StopPos>
+<StopPos index="2">0.772549</StopPos>
+<StopPos index="3">0.870588</StopPos>
+</Properties>
+</Gradient>
+<Translation>0.000000,0.500000,0.000000</Translation>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,53.100000,0.000000,0,53.100000,0.000000,53.100000,0.000000,53.100000,57.482890,0,53.100000,57.482890,53.100000,57.482890,0.000000,57.482890,0,0.000000,57.482890,0.000000,57.482890,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>bgEdge1</Id>
+<Width>21.5</Width>
+<Height>39.47955</Height>
+<Position>337.000000,0.000000,0.000000</Position>
+<Opacity>1.1</Opacity>
+<Anchor>4</Anchor>
+<Pivot>-0.000732,0.000000,0.000000</Pivot>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0fb391</FillColor>
+<Gradient><Properties>
+<Radial>True</Radial>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff3c3c3c</StopColor>
+<StopColor index="1">0xff323232</StopColor>
+<StopColor index="2">0x32ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.576</StopPos>
+<StopPos index="1">0.681</StopPos>
+<StopPos index="2">0.755</StopPos>
+<StopPos index="3">0.866</StopPos>
+</Properties>
+</Gradient>
+<Translation>0.000000,0.500000,0.000000</Translation>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,53.100000,0.000000,0,53.100000,0.000000,53.100000,0.000000,53.100000,57.482890,0,53.100000,57.482890,53.100000,57.482890,0.000000,57.482890,0,0.000000,57.482890,0.000000,57.482890,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>bgOutlineEdge</Id>
+<Width>1.524456</Width>
+<Height>39.47955</Height>
+<Position>357.655200,0.000000,0.000000</Position>
+<Opacity>1.1</Opacity>
+<Anchor>4</Anchor>
+<Pivot>-0.000732,0.000000,0.000000</Pivot>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0f5a44</FillColor>
+<Gradient><Properties>
+<Radial>True</Radial>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff718499</StopColor>
+<StopColor index="1">0xff506482</StopColor>
+<StopColor index="2">0x73ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.615686</StopPos>
+<StopPos index="1">0.686275</StopPos>
+<StopPos index="2">0.772549</StopPos>
+<StopPos index="3">0.870588</StopPos>
+</Properties>
+</Gradient>
+<Translation>0.000000,0.500000,0.000000</Translation>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,53.100000,0.000000,0,53.100000,0.000000,53.100000,0.000000,53.100000,57.482890,0,53.100000,57.482890,53.100000,57.482890,0.000000,57.482890,0,0.000000,57.482890,0.000000,57.482890,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>bgOutlineBottom</Id>
+<Width>326.4893</Width>
+<Height>1.524456</Height>
+<Position>32.000000,38.009390,0.000000</Position>
+<Opacity>1.1</Opacity>
+<Anchor>5</Anchor>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0f5a44</FillColor>
+<Gradient><Properties>
+<NumStops>8</NumStops>
+<StopColor index="0">0x00ebebeb</StopColor>
+<StopColor index="1">0x32ebebeb</StopColor>
+<StopColor index="2">0xff323232</StopColor>
+<StopColor index="3">0xff3c3c3c</StopColor>
+<StopColor index="4">0xff3c3c3c</StopColor>
+<StopColor index="5">0xff323232</StopColor>
+<StopColor index="6">0x32ebebeb</StopColor>
+<StopColor index="7">0x00ebebeb</StopColor>
+<StopPos index="0">0.019</StopPos>
+<StopPos index="1">0.085</StopPos>
+<StopPos index="2">0.125</StopPos>
+<StopPos index="3">0.156</StopPos>
+<StopPos index="4">0.832</StopPos>
+<StopPos index="5">0.88</StopPos>
+<StopPos index="6">0.928</StopPos>
+<StopPos index="7">0.976</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,103.000000,0.000000,0,103.000000,0.000000,103.000000,0.000000,103.000000,41.663860,0,103.000000,41.663860,103.000000,41.663860,0.000000,41.663860,0,0.000000,41.663860,0.000000,41.663860,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>bgOutlineTop</Id>
+<Width>326.4893</Width>
+<Height>1.524456</Height>
+<Position>32.000000,0.009387,0.000000</Position>
+<Opacity>1.1</Opacity>
+<Anchor>5</Anchor>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0f5a44</FillColor>
+<Gradient><Properties>
+<NumStops>8</NumStops>
+<StopColor index="0">0x00ebebeb</StopColor>
+<StopColor index="1">0x32ebebeb</StopColor>
+<StopColor index="2">0xff323232</StopColor>
+<StopColor index="3">0xff3c3c3c</StopColor>
+<StopColor index="4">0xff3c3c3c</StopColor>
+<StopColor index="5">0xff323232</StopColor>
+<StopColor index="6">0x32ebebeb</StopColor>
+<StopColor index="7">0x00ebebeb</StopColor>
+<StopPos index="0">0.019</StopPos>
+<StopPos index="1">0.085</StopPos>
+<StopPos index="2">0.125</StopPos>
+<StopPos index="3">0.156</StopPos>
+<StopPos index="4">0.832</StopPos>
+<StopPos index="5">0.88</StopPos>
+<StopPos index="6">0.928</StopPos>
+<StopPos index="7">0.976</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,103.000000,0.000000,0,103.000000,0.000000,103.000000,0.000000,103.000000,41.663860,0,103.000000,41.663860,103.000000,41.663860,0.000000,41.663860,0,0.000000,41.663860,0.000000,41.663860,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+</XamGroup>
+<XuiFigure>
+<Properties>
+<Id>Square</Id>
+<Width>43</Width>
+<Height>43</Height>
+<Position>7.000000,8.000000,0.000000</Position>
+<Scale>0.000000,0.000000,1.000000</Scale>
+<Opacity>0</Opacity>
+<Pivot>21.500000,21.500000,0.000000</Pivot>
+<Show>False</Show>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0feb14</FillColor>
+<Gradient><Properties>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff3c3c3c</StopColor>
+<StopColor index="1">0xff323232</StopColor>
+<StopColor index="2">0x36ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.576</StopPos>
+<StopPos index="1">0.681</StopPos>
+<StopPos index="2">0.755</StopPos>
+<StopPos index="3">0.866</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,87.000000,0.000000,0,87.000000,0.000000,87.000000,0.000000,87.000000,87.000000,0,87.000000,87.000000,87.000000,87.000000,0.000000,87.000000,0,0.000000,87.000000,0.000000,87.000000,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>SquareOutlineBottom</Id>
+<Width>43</Width>
+<Height>43</Height>
+<Position>7.000000,8.000000,0.000000</Position>
+<Scale>0.000000,0.000000,1.000000</Scale>
+<Opacity>0</Opacity>
+<Pivot>21.500000,21.500000,0.000000</Pivot>
+<Show>False</Show>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0feb14</FillColor>
+<Gradient><Properties>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff3c3c3c</StopColor>
+<StopColor index="1">0xff323232</StopColor>
+<StopColor index="2">0x36ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.576</StopPos>
+<StopPos index="1">0.681</StopPos>
+<StopPos index="2">0.755</StopPos>
+<StopPos index="3">0.866</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,87.000000,0.000000,0,87.000000,0.000000,87.000000,0.000000,87.000000,87.000000,0,87.000000,87.000000,87.000000,87.000000,0.000000,87.000000,0,0.000000,87.000000,0.000000,87.000000,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>SquareOutlineRight</Id>
+<Width>43</Width>
+<Height>43</Height>
+<Position>7.000000,8.000000,0.000000</Position>
+<Scale>0.000000,0.000000,1.000000</Scale>
+<Opacity>0</Opacity>
+<Pivot>21.500000,21.500000,0.000000</Pivot>
+<Show>False</Show>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0feb14</FillColor>
+<Gradient><Properties>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff3c3c3c</StopColor>
+<StopColor index="1">0xff323232</StopColor>
+<StopColor index="2">0x36ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.576</StopPos>
+<StopPos index="1">0.681</StopPos>
+<StopPos index="2">0.755</StopPos>
+<StopPos index="3">0.866</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,87.000000,0.000000,0,87.000000,0.000000,87.000000,0.000000,87.000000,87.000000,0,87.000000,87.000000,87.000000,87.000000,0.000000,87.000000,0,0.000000,87.000000,0.000000,87.000000,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>SquareOutlineLeft</Id>
+<Width>43</Width>
+<Height>43</Height>
+<Position>7.000000,8.000000,0.000000</Position>
+<Scale>0.000000,0.000000,1.000000</Scale>
+<Opacity>0</Opacity>
+<Pivot>21.500000,21.500000,0.000000</Pivot>
+<Show>False</Show>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0feb14</FillColor>
+<Gradient><Properties>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff3c3c3c</StopColor>
+<StopColor index="1">0xff323232</StopColor>
+<StopColor index="2">0x36ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.576</StopPos>
+<StopPos index="1">0.681</StopPos>
+<StopPos index="2">0.755</StopPos>
+<StopPos index="3">0.866</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,87.000000,0.000000,0,87.000000,0.000000,87.000000,0.000000,87.000000,87.000000,0,87.000000,87.000000,87.000000,87.000000,0.000000,87.000000,0,0.000000,87.000000,0.000000,87.000000,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiFigure>
+<Properties>
+<Id>SquareOutlineTop</Id>
+<Width>43</Width>
+<Height>43</Height>
+<Position>7.000000,8.000000,0.000000</Position>
+<Scale>0.000000,0.000000,1.000000</Scale>
+<Opacity>0</Opacity>
+<Pivot>21.500000,21.500000,0.000000</Pivot>
+<Show>False</Show>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xff0feb14</FillColor>
+<Gradient><Properties>
+<NumStops>4</NumStops>
+<StopColor index="0">0xff3c3c3c</StopColor>
+<StopColor index="1">0xff323232</StopColor>
+<StopColor index="2">0x36ebebeb</StopColor>
+<StopColor index="3">0x00ebebeb</StopColor>
+<StopPos index="0">0.576</StopPos>
+<StopPos index="1">0.681</StopPos>
+<StopPos index="2">0.755</StopPos>
+<StopPos index="3">0.866</StopPos>
+</Properties>
+</Gradient>
+<Rotation>90</Rotation>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,87.000000,0.000000,0,87.000000,0.000000,87.000000,0.000000,87.000000,87.000000,0,87.000000,87.000000,87.000000,87.000000,0.000000,87.000000,0,0.000000,87.000000,0.000000,87.000000,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XamGroup>
+<Properties>
+<Id>alert_explosion</Id>
+<Width>154</Width>
+<Height>155</Height>
+<Position>-43.000000,-47.959960,0.000000</Position>
+</Properties>
+<XuiFigure>
+<Properties>
+<Id>squareeplo</Id>
+<Width>0</Width>
+<Height>0.232569</Height>
+<Position>70.582050,75.279760,0.000000</Position>
+<Stroke><Properties>
+<StrokeColor>0xff0f0f80</StrokeColor>
+</Properties>
+</Stroke>
+<Fill><Properties>
+<FillColor>0xff30c6aa</FillColor>
+<TransformVersion>1</TransformVersion>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,35.000000,0.000000,0,35.000000,0.000000,35.000000,0.000000,35.000000,37.000000,0,35.000000,37.000000,35.000000,37.000000,0.000000,37.000000,0,0.000000,37.000000,0.000000,37.000000,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<Timelines>
+<NamedFrames>
+</NamedFrames>
+<Timeline>
+<Id>squareeplo</Id>
+<TimelineProp index="0">Position</TimelineProp>
+<TimelineProp index="0">Width</TimelineProp>
+<TimelineProp index="0">Height</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>70.582050,75.279760,0.000000</Prop>
+<Prop>0</Prop>
+<Prop>0.232569</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>12</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>69.336760,79.116680,0.000000</Prop>
+<Prop>0</Prop>
+<Prop>0.499528</Prop>
+<Prop>-1.938927,-0.830940,0.000000</Prop>
+<Prop>0.000000,0.000000,0.081240,-0.996695</Prop>
+<Prop>0</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>37</Time>
+<Interpolation>0</Interpolation>
+<Prop>70.090410,77.984060,0.000000</Prop>
+<Prop>1.542768</Prop>
+<Prop>2.872972</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>57</Time>
+<Interpolation>1</Interpolation>
+<Prop>52.134760,57.604600,0.000000</Prop>
+<Prop>38.79066</Prop>
+<Prop>39.5178</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>91</Time>
+<Interpolation>0</Interpolation>
+<Prop>69.651730,78.070520,0.000000</Prop>
+<Prop>2.905615</Prop>
+<Prop>1.882235</Prop>
+<Prop>0.465202,1.628044,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>124</Time>
+<Interpolation>0</Interpolation>
+<Prop>52.040000,57.860000,0.000000</Prop>
+<Prop>38.79066</Prop>
+<Prop>39.5178</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>164</Time>
+<Interpolation>0</Interpolation>
+<Prop>52.036090,57.861960,0.000000</Prop>
+<Prop>38.79066</Prop>
+<Prop>39.5178</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>188</Time>
+<Interpolation>0</Interpolation>
+<Prop>52.142520,57.897610,0.000000</Prop>
+<Prop>38.79066</Prop>
+<Prop>39.5178</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>217</Time>
+<Interpolation>1</Interpolation>
+<Prop>70.512330,78.324830,0.000000</Prop>
+<Prop>0</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>236</Time>
+<Interpolation>1</Interpolation>
+<Prop>68.721510,80.628810,0.000000</Prop>
+<Prop>0</Prop>
+<Prop>0.02169</Prop>
+<Prop>0.000000,0.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>1</Prop>
+</KeyFrame>
+</Timeline>
+</Timelines></XamGroup>
+<XuiFigure>
+<Properties>
+<Id>logoback</Id>
+<Width>32</Width>
+<Height>32</Height>
+<Position>12.500000,13.500000,0.000000</Position>
+<Scale>0.000000,0.000000,1.000000</Scale>
+<Opacity>0</Opacity>
+<Pivot>16.000000,16.000000,0.000000</Pivot>
+<Show>False</Show>
+<ColorWriteFlags>15</ColorWriteFlags>
+<Fill><Properties>
+<FillColor>0xfdeb6d6d</FillColor>
+<Gradient><Properties>
+<Radial>True</Radial>
+<NumStops>2</NumStops>
+<StopColor index="0">0xff0f0f0f</StopColor>
+<StopColor index="1">0x000f0f0f</StopColor>
+<StopPos index="0">0.8</StopPos>
+<StopPos index="1">0.913726</StopPos>
+</Properties>
+</Gradient>
+</Properties>
+</Fill>
+<Closed>True</Closed>
+<Points>4,0.000000,0.000000,0.000000,0.000000,34.000000,0.000000,0,34.000000,0.000000,34.000000,0.000000,34.000000,32.000000,0,34.000000,32.000000,34.000000,32.000000,0.000000,32.000000,0,0.000000,32.000000,0.000000,32.000000,0.000000,0.000000,0,</Points>
+</Properties>
+</XuiFigure>
+<XuiImage>
+<Properties>
+<Id>xenonLogo</Id>
+<Width>34</Width>
+<Height>34</Height>
+<Position>7.000000,8.000000,0.000000</Position>
+<Scale>0.100000,0.100000,1.000000</Scale>
+<Opacity>0.5</Opacity>
+<Pivot>21.500000,21.500000,0.000000</Pivot>
+<Show>False</Show>
+<SizeMode>16</SizeMode>
+<ImagePath>hud\xenonLogo.png</ImagePath>
+</Properties>
+</XuiImage>
+<XuiImagePresenter>
+<Properties>
+<Id>Image</Id>
+<Width>24</Width>
+<Height>24</Height>
+<Position>18.500000,18.500000,0.000000</Position>
+<Opacity>0.184615</Opacity>
+<Anchor>1</Anchor>
+<Pivot>12.000000,12.000000,0.000000</Pivot>
+<Show>False</Show>
+<SizeMode>16</SizeMode>
+</Properties>
+</XuiImagePresenter>
+<XuiTextPresenter>
+<Properties>
+<Id>Text</Id>
+<Width>283</Width>
+<Height>60</Height>
+<Position>59.000000,0.000000,0.000000</Position>
+<Anchor>5</Anchor>
+<Show>False</Show>
+<TextColor>0xffebebeb</TextColor>
+<DropShadowColor>0x550f0f0f</DropShadowColor>
+<PointSize>10.4</PointSize>
+<TextStyle>4373</TextStyle>
+<LineSpacingAdjust>-2</LineSpacingAdjust>
+</Properties>
+</XuiTextPresenter>
+<XamSoundXAudio>
+<Properties>
+<Id>PopUpSound</Id>
+<File>ding.xma</File>
+</Properties>
+</XamSoundXAudio>
+<Timelines>
+<NamedFrames>
+<NamedFrame>
+<Name>TransTo</Name>
+<Time>0</Time>
+<Command>play</Command>
+</NamedFrame>
+<NamedFrame>
+<Name>loop</Name>
+<Time>65</Time>
+<Command>play</Command>
+</NamedFrame>
+<NamedFrame>
+<Name>EndTransTo</Name>
+<Time>185</Time>
+<Command>gotoandplay</Command>
+<CommandParams>loop</CommandParams>
+</NamedFrame>
+<NamedFrame>
+<Name>TransFrom</Name>
+<Time>186</Time>
+<Command>play</Command>
+</NamedFrame>
+<NamedFrame>
+<Name>EndTransFrom</Name>
+<Time>240</Time>
+<Command>stop</Command>
+</NamedFrame>
+<NamedFrame>
+<Name>EndTransBackFrom</Name>
+<Time>241</Time>
+<Command>stop</Command>
+</NamedFrame>
+</NamedFrames>
+<Timeline>
+<Id>Square</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Fill.FillColor</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0feb14</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>15</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>21.499500,21.499490,0.000000</Prop>
+<Prop>0.000000,0.000000,0.841801,0.539789</Prop>
+<Prop>7.000002,8.000002,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>46</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>224</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.324443,0.945905</Prop>
+<Prop>21.499970,21.499980,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xfdeb1b1b</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>logoback</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Fill.FillColor</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xfdeb6d6d</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>16.000000,16.000000,0.000000</Prop>
+<Prop>12.500000,13.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>27</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff238974</Prop>
+<Prop>0.000000,0.000000,0.164288,0.986412</Prop>
+<Prop>15.999960,15.999980,0.000000</Prop>
+<Prop>12.500000,13.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>42</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f9679</Prop>
+<Prop>0.000000,0.000000,0.000000,0.999999</Prop>
+<Prop>15.999980,15.999980,0.000000</Prop>
+<Prop>12.500000,13.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff238974</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>16.000000,16.000000,0.000000</Prop>
+<Prop>12.500000,13.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>224</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff238974</Prop>
+<Prop>0.000000,0.000000,-0.327803,-0.944745</Prop>
+<Prop>15.999970,15.999970,0.000000</Prop>
+<Prop>12.500000,13.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xfdeb6d6d</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>16.000000,16.000000,0.000000</Prop>
+<Prop>12.500000,13.500000,0.000000</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>xenonLogo</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0.100000,0.100000,1.000000</Prop>
+<Prop>0.5</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>10</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0.100000,0.100000,1.000000</Prop>
+<Prop>0.5</Prop>
+<Prop>8.699611,15.171520,0.000000</Prop>
+<Prop>0.000000,0.000000,0.516069,0.856547</Prop>
+<Prop>21.499830,21.499910,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>49</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>1</Prop>
+<Prop>11.186220,12.186220,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>60</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>1</Prop>
+<Prop>11.190000,12.190000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>65</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>0</Prop>
+<Prop>11.186220,12.186220,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>125</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>0</Prop>
+<Prop>11.418790,12.186220,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>130</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>1</Prop>
+<Prop>11.186220,12.186220,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>180</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>1</Prop>
+<Prop>11.418790,12.186220,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>185</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>0</Prop>
+<Prop>11.418790,11.953660,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>195</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>0</Prop>
+<Prop>10.953660,12.186220,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>1</Prop>
+<Prop>11.186220,12.186220,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>224</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0.950000,0.950000,1.000000</Prop>
+<Prop>1</Prop>
+<Prop>7.465189,14.046740,0.000000</Prop>
+<Prop>0.000000,0.000000,-0.340514,-0.940239</Prop>
+<Prop>21.499860,21.499870,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0.200000,0.200000,1.000000</Prop>
+<Prop>1</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>Image</Id>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Anchor</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>0.184615</Prop>
+<Prop>false</Prop>
+<Prop>1</Prop>
+<Prop>18.500000,18.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>65</Time>
+<Interpolation>0</Interpolation>
+<Prop>0</Prop>
+<Prop>true</Prop>
+<Prop>48</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>70</Time>
+<Interpolation>1</Interpolation>
+<Prop>1</Prop>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>120</Time>
+<Interpolation>0</Interpolation>
+<Prop>1</Prop>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>125</Time>
+<Interpolation>1</Interpolation>
+<Prop>0</Prop>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>185</Time>
+<Interpolation>0</Interpolation>
+<Prop>0</Prop>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>186</Time>
+<Interpolation>0</Interpolation>
+<Prop>1</Prop>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>192</Time>
+<Interpolation>1</Interpolation>
+<Prop>0</Prop>
+<Prop>false</Prop>
+<Prop>1</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>0</Interpolation>
+<Prop>0</Prop>
+<Prop>false</Prop>
+<Prop>1</Prop>
+<Prop>16.500000,17.500000,0.000000</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>Text</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">DropShadowColor</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0x550f0f0f</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>52</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>0.000000,1.000000,1.000000</Prop>
+<Prop>0x550f0f0f</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>65</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0x550f0f0f</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>186</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0x550f0f0f</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>205</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>1</Prop>
+<Prop>0.000000,1.000000,1.000000</Prop>
+<Prop>0x3c0f0f0f</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>0</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0x3c0f0f0f</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>bgBase</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0.000000,10.000000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>45</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0.95</Prop>
+<Prop>0.000000,1.000000,1.000000</Prop>
+<Prop>0.377660,10.000000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>65</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0.95</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0.262148,10.000000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>186</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0.95</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0.000000,10.000000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0.95</Prop>
+<Prop>0.075798,1.000000,1.000000</Prop>
+<Prop>-0.240000,10.000000,0.000000</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>0</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>0.075798,1.000000,1.000000</Prop>
+<Prop>-0.240000,10.000000,0.000000</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>SquareOutlineTop</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Fill.FillColor</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<TimelineProp index="0">Height</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0feb14</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>15</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>21.499500,21.499490,0.000000</Prop>
+<Prop>0.000000,0.000000,0.841801,0.539789</Prop>
+<Prop>7.000002,8.000002,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>46</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>47</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>224</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.324443,0.945905</Prop>
+<Prop>21.499970,21.499980,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xfdeb1b1b</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>SquareOutlineBottom</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Fill.FillColor</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<TimelineProp index="0">Height</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0feb14</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>15</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>21.499500,21.499490,0.000000</Prop>
+<Prop>0.000000,0.000000,0.841801,0.539789</Prop>
+<Prop>7.000002,8.000002,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>46</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,50.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>47</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,50.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>224</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.324443,0.945905</Prop>
+<Prop>21.499970,21.499980,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xfdeb1b1b</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>SquareOutlineRight</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Fill.FillColor</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<TimelineProp index="0">Height</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0feb14</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>15</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>21.499500,21.499490,0.000000</Prop>
+<Prop>0.000000,0.000000,0.841801,0.539789</Prop>
+<Prop>7.000002,8.000002,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>46</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.707107,0.707107</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>47</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.707107,0.707107</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>224</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.324443,0.945905</Prop>
+<Prop>21.499970,21.499980,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xfdeb1b1b</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+</Timeline>
+<Timeline>
+<Id>SquareOutlineLeft</Id>
+<TimelineProp index="0">Show</TimelineProp>
+<TimelineProp index="0">Opacity</TimelineProp>
+<TimelineProp index="0">Scale</TimelineProp>
+<TimelineProp index="0">Fill.FillColor</TimelineProp>
+<TimelineProp index="0">Position</TimelineProp>
+<TimelineProp index="0">Rotation</TimelineProp>
+<TimelineProp index="0">Pivot</TimelineProp>
+<TimelineProp index="0">Height</TimelineProp>
+<KeyFrame>
+<Time>0</Time>
+<Interpolation>1</Interpolation>
+<Prop>false</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0feb14</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>15</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>21.499500,21.499490,0.000000</Prop>
+<Prop>0.000000,0.000000,0.841801,0.539789</Prop>
+<Prop>7.000002,8.000002,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>46</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,-0.707107,0.707107</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>47</Time>
+<Interpolation>1</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0f5a44</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,-0.707107,0.707107</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>1.049905</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>210</Time>
+<Interpolation>0</Interpolation>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>224</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>100</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>1</Prop>
+<Prop>1.000000,1.000000,1.000000</Prop>
+<Prop>0xff0fb391</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.324443,0.945905</Prop>
+<Prop>21.499970,21.499980,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+<KeyFrame>
+<Time>240</Time>
+<Interpolation>2</Interpolation>
+<EaseIn>0</EaseIn>
+<EaseOut>0</EaseOut>
+<EaseScale>50</EaseScale>
+<Prop>true</Prop>
+<Prop>0</Prop>
+<Prop>0.000000,0.000000,1.000000</Prop>
+<Prop>0xfdeb1b1b</Prop>
+<Prop>7.000000,8.000000,0.000000</Prop>
+<Prop>0.000000,0.000000,0.000000,1.000000</Prop>
+<Prop>21.500000,21.500000,0.000000</Prop>
+<Prop>43</Prop>
+</KeyFrame>
+</Timeline>
+</Timelines></XuiVisual>
+</XuiCanvas>

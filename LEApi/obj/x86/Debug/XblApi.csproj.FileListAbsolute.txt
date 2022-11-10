@@ -1,0 +1,63 @@
+C:\Users\MadJoker\Desktop\New2\XblApi\ClbModzAPI\bin\x86\Debug\XblApi.exe.config
+C:\Users\MadJoker\Desktop\New2\XblApi\ClbModzAPI\bin\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New2\XblApi\ClbModzAPI\bin\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\New2\XblApi\ClbModzAPI\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\MadJoker\Desktop\New2\XblApi\ClbModzAPI\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\MadJoker\Desktop\New2\XblApi\ClbModzAPI\obj\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New2\XblApi\ClbModzAPI\obj\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\bin\x86\Debug\XblApi.exe.config
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\bin\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\bin\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\New2\XblApi\XblApi\obj\x86\Debug\XblApi.csprojAssemblyReference.cache
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.exe.config
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\New XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csprojAssemblyReference.cache
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\bin\x86\Debug\XblApi.exe.config
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\bin\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\bin\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\obj\x86\Debug\XblApi.csprojAssemblyReference.cache
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\obj\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\TestXboxArmor\XblApi\XblApi\obj\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.exe.config
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.pdb
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csprojAssemblyReference.cache
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.exe
+C:\Users\MadJoker\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.pdb
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.exe.config
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.exe
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\bin\x86\Debug\XblApi.pdb
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csprojAssemblyReference.cache
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.exe
+C:\Users\Armor\Desktop\XboxArmor 17559\XblApi\XblApi\obj\x86\Debug\XblApi.pdb
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\bin\x86\Debug\XblApi.exe.config
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\bin\x86\Debug\XblApi.exe
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\bin\x86\Debug\XblApi.pdb
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.AssemblyReference.cache
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\obj\x86\Debug\XblApi.exe
+C:\Users\Armor\Desktop\Armored Turtle\XblApi\XblApi\obj\x86\Debug\XblApi.pdb
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\bin\x86\Debug\XblApi.exe.config
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\bin\x86\Debug\XblApi.exe
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\bin\x86\Debug\XblApi.pdb
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CoreCompileInputs.cache
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\obj\x86\Debug\XblApi.csproj.CopyComplete
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\obj\x86\Debug\XblApi.exe
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\obj\x86\Debug\XblApi.pdb
+C:\Users\creec\Desktop\silent\xbox Armor\current\current\XblApi\XblApi\obj\x86\Debug\XblApi.csprojAssemblyReference.cache
