@@ -1,5 +1,8 @@
 # LiveEmulation
-Revised Stealth server by me. Will go online. Comes with its own API. Taken originally from https://github.com/SexyExploits. 
+Revised Stealth server by me. Will go online. Comes with its own API. I may routinely update this. 
+
+
+Taken originally from https://github.com/SexyExploits. 
 
 Set IP & Port just like in the picture below:
 
